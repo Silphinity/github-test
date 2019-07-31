@@ -1,1 +1,4 @@
 HELLO GIT AND GITHUB
+
+
+I am now working with Git and on the way to make mad loot
